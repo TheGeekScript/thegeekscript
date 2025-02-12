@@ -10,4 +10,5 @@ You can reach me at [web.chaitra@gmail.com](mailto:web.chaitra@gmail.com)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thegeekscript&icon=0&color=12)](https://visitcount.itsvg.in)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=thegeekscript&label=Visitors&labelColor=%23d9e3f0&countColor=%23555555)
