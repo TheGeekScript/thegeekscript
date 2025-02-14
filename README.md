@@ -1,5 +1,5 @@
 ## 💫 Hi! I'm Chaitra
-A passionate developer with 10+ years of experience in software development. I specialize in backend technologies like **PHP**, **Node.js**, and **Java**, as well as frontend technologies like **HTML**, **CSS**, and **JavaScript**. I'm also skilled in **WordPress**, **Laravel**, and **Magento**. I'm always learning new technologies and improving my skills.<br>
+Software Developer<br>
 
 
 ## 💻 Tech Stack:
