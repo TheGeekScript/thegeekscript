@@ -1,5 +1,19 @@
-## 💫 Hi! I'm a Coder
-Software Developer<br>
+## 💫 Coding, AI & Infinite Learning | The Future is Algorithmic
+10 Years of Code → Now Obsessed with AI’s Infinite Possibilities
+I’ve spent a decade turning coffee into clean, scalable code - but the real magic happens when software learns. Today, I’m channeling that experience into AI, LLMs, and the systems that will redefine tomorrow.
+
+Where I Excel:
+- CS Roots: Algorithms, data structures, and system design—the bedrock of everything I build.
+- Coder Meets AI: Designing systems that don’t just run but adapt.
+- Engineering Pragmatism: Scaling systems taught me that elegant solutions > clever hacks (most of the time).
+
+Why AI?
+The next decade belongs to those who can harness machine intelligence responsibly. I’m here to build, question, and (occasionally) debug the future. Because the future belongs to those who can orchestrate code and cognition.
+
+Let’s Connect If You:
+- Work with AI/ML, generative models, or infrastructure at scale.
+- Geek out over low-level optimizations as much as high-level AI breakthroughs.
+- Believe the best tech solves real problems—not just benchmarks.<br>
 
 
 ## 💻 Tech Stack:
