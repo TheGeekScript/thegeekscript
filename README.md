@@ -1,4 +1,4 @@
-## 💫 Coding, AI & Infinite Learning | The Future is Algorithmic
+## 💫 The Future is Algorithmic
 10 Years of Code → Now Obsessed with AI’s Infinite Possibilities
 I’ve spent a decade turning coffee into clean, scalable code - but the real magic happens when software learns. Today, I’m channeling that experience into AI, LLMs, and the systems that will redefine tomorrow.
 
